@@ -8,3 +8,14 @@ This are knowledge distillation papers.
 4. Generic-to-Specific Distillation of Masked Autoencoders
 5. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 6. Learning to Retain while Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation
+
+## Big Model
+1. Lion: Adversarial Distillation of Closed-Source Large Language Model
+2. Distilling Step-by-Step Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes
+
+## Diffusion Model
+1. On Distillation of Guided Diffusion Models
+
+## Others
+1. VanillaKD : Revisit the Power of Vanilla Knowledge Distillation from Small Scale to Large Scale
+
